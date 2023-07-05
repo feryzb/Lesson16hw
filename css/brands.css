@@ -1,0 +1,37 @@
+#home {
+  background-color: black;
+}
+.home-container {
+  padding-bottom: 140px;
+  display: flex;
+}
+.home-left h1 {
+  color: #fff;
+  font-size: 87px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  line-height: 125.5%;
+}
+.home-left p {
+  color: #8b8e99;
+  font-size: 16px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  line-height: 125.5%;
+}
+.home-right,
+.home-left {
+  width: 50%;
+}
+.home-left {
+  padding-top: 154px;
+}
+.home-right {
+  padding-top: 102px;
+  display: flex;
+}
+.home-right img {
+  width: 100%;
+}

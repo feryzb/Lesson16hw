@@ -1,0 +1,26 @@
+.smartphones-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.firstbox,
+.secondbox,
+.thirdbox {
+  background-color: #f6f6f6;
+  /* display: flex; */
+  align-items: center;
+  justify-content: space-between;
+  width: 354px;
+  height: 239px;
+  flex-shrink: 0;
+  margin-top: 73px;
+  margin-bottom: 50px;
+  flex-direction: column;
+}
+.firstbox p {
+  display: flex;
+  text-align: center;
+}
+.firstbox h1 {
+  display: flex;
+}
